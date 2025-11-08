@@ -1,4 +1,4 @@
 # cv-projects
-this is prectice repositiory
+this is practice repositiory
 <br>
 author = lokanshu tanwar
